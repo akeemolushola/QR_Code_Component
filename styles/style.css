@@ -9,7 +9,7 @@ body {
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     position: relative;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .main-container {
